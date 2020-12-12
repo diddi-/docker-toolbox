@@ -37,3 +37,5 @@ The following packages have been added:
 - ncat
 - python3 (linked to `/usr/bin/python`)
 - procps
+- traceroute
+- mtr
