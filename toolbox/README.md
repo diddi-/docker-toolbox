@@ -39,3 +39,4 @@ The following packages have been added:
 - procps
 - traceroute
 - mtr
+- ldap-utils
